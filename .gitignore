@@ -2,11 +2,6 @@
 .vscode
 .DS_Store
 
-# folders
-books/
-slides/
-survey/
-
 # files
 *.docx
 *.xlsx
