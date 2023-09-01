@@ -29,7 +29,7 @@ Update file sum_sq.c to:
 3. Expand the desired section. If your code did not pass, you will expand "Run education/autograding@v1" and see the error message.
 
 ### Note:
-We strongly recommend you run your finished programs on your local machine/laptop first to test if they are working correctly. You should always test on your laptop first, and then copy the finished code to github.
+We strongly recommend you run your finished programs on your local machine/laptop first to test if they are working correctly. You should always test on your laptop first, and then copy the finished code to github. Test your program on your machine using the instructions you received in the lab sessions.
 
 If your code did not pass, revise your code and submit(commit) your changes again.
 
