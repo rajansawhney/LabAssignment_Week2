@@ -16,8 +16,7 @@ Update file sum_sq.c to:
 4. Once you are ready to submit your changes, click on the green "Commit changes..." button on the top right
 5. Enter a commit message that describes your changes in a few words - eg: added printf statement
 6. Select "Commit directly to the main branch"
-7. Click on "Commit Changes" button
-Your code changes have been submitted!
+7. Click on "Commit Changes" button. Your code changes have been submitted!
 
 ### To check whether your code changes passed:
 1. Click on "Pull Requests" on the top
@@ -27,10 +26,10 @@ Your code changes have been submitted!
 ### To investigate how your code performed:
 1. On the Feedback page, click on "Show all checks" on the bottom right. You can skip this step if you see "Hide all checks"
 2. Click on "Details"
-3. Expand the section the desired section. If your code did not pass, you will expand "Run education/autograding@v1" and see the error message.
+3. Expand the desired section. If your code did not pass, you will expand "Run education/autograding@v1" and see the error message.
 
 ### Note:
-We strongly recommend you to run your finished programs on your local machine/laptop first to test if they are working correctly. You should always test on your laptop first, and then copy the finished code to github.
+We strongly recommend you run your finished programs on your local machine/laptop first to test if they are working correctly. You should always test on your laptop first, and then copy the finished code to github.
 
 If your code did not pass, revise your code and submit(commit) your changes again.
 
