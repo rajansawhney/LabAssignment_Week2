@@ -36,6 +36,6 @@ You can submit(commit) your changes unlimited number of times till your code pas
 
 You will not be able to submit changes after the deadline has passed.
 
-We strongly recommend you to run your finished programs on your local machine/laptop as well to test if they are working correctly. You can always test on your laptop and copy the finished code to github.
+We strongly recommend you to run your finished programs on your local machine/laptop first to test if they are working correctly. You should always test on your laptop first, and then copy the finished code to github.
 
 For any questions, please reach out to Dr. Katy Tarrit (katytm7@hawaii.edu) AND Rajan Sawhney (rsawhney@hawaii.edu)
