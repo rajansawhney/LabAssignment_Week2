@@ -30,12 +30,12 @@ Your code changes have been submitted!
 3. Expand the section the desired section. If your code did not pass, you will expand "Run education/autograding@v1" and see the error message.
 
 ### Note:
+We strongly recommend you to run your finished programs on your local machine/laptop first to test if they are working correctly. You should always test on your laptop first, and then copy the finished code to github.
+
 If your code did not pass, revise your code and submit(commit) your changes again.
 
-You can submit(commit) your changes unlimited number of times till your code passes (before the submission deadline).
+Make sure you have your final submission in before the deadline has passed.
 
 You will not be able to submit changes after the deadline has passed.
-
-We strongly recommend you to run your finished programs on your local machine/laptop first to test if they are working correctly. You should always test on your laptop first, and then copy the finished code to github.
 
 For any questions, please reach out to Dr. Katy Tarrit (katytm7@hawaii.edu) AND Rajan Sawhney (rsawhney@hawaii.edu)
